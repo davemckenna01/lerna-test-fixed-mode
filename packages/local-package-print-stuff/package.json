@@ -1,6 +1,6 @@
 {
   "name": "local-package-print-stuff",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "local-package-print-foo": "^1.0.0",
+    "local-package-print-foo": "^1.1.0",
     "underscore": "^1.9.1"
   }
 }
